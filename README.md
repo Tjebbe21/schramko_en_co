@@ -1,5 +1,5 @@
 # Schramko_en_co
-Linear stability analysis of bottom patterns in confined tidal channel. The model is based on that of Schramkowski et al. (2002), but with the Coriolis effect included.
+Linear stability analysis of bottom patterns in confined tidal channel. 
 
 See: Hepkema et al. (2020) Oblique sand ridges in confined tidal channels due to Coriolis and frictional torques. <https://doi.org/10.1007/s10236-020-01413-0>
 
